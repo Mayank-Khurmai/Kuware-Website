@@ -5,3 +5,4 @@ $("#video-play").hover(
     function(){
         $("#video-play-big").css("display", "none");
   });
+  
