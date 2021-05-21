@@ -134,6 +134,10 @@ a{
     position: absolute;
 }
 
+#navbarSupportedContent a:hover{
+    color: #DB7508;
+}
+
 .dropbtn {
     color: white;
     font-size: 16px;
