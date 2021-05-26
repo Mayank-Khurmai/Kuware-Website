@@ -6,3 +6,4 @@ $("#video-play").hover(
         $("#video-play-big").css("display", "none");
   });
   
+  
